@@ -1,0 +1,22 @@
+/*! WRITE YOUR CUSTOM STYLE **/
+
+:root {
+	--primary-color: #ff3152;
+	--primary-color-hover: #eb304f;
+	--primary-shadow: 0 0 30px #ff3152;
+}
+
+.btn-color {
+	background-color: var(--primary-color);
+	border-color: var(--primary-color);
+}
+
+.btn-color:hover {
+	background-color: var(--primary-color-hover);
+	border-color: var(--primary-color-hover);
+	box-shadow: var(--primary-shadow);
+}
+
+.btn-color:focus {
+	color: #fff;
+}
