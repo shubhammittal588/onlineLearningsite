@@ -9,7 +9,7 @@ $emailTO = $emailBCC =  $emailCC = array(); $formEmail = '';
 $sitename = 'Your Site Name';
 
 ### Enter your email addresses: @required
-$emailTO[] = array( 'email' => 'email@yoursite.com', 'name' => 'Your Name' ); 
+$emailTO[] = array( 'email' => 'shubhammittal588@gmail.com', 'name' => 'Your Name' ); 
 
 ### Enable bellow parameters & update your BCC email if require.
 //$emailBCC[] = array( 'email' => 'email@yoursite.com', 'name' => 'Your Name' );
